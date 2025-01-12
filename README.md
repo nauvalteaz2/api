@@ -1,3 +1,3 @@
 - masukan ke htdoc xampp
 
--nyalakan xampp
+- nyalakan xampp
